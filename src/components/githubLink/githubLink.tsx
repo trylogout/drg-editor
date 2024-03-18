@@ -3,7 +3,7 @@ import { FaGithub } from 'react-icons/fa';
 
 function GithubLink(): ReactElement {
   const url = 'https://github.com/MrMarble/drg-editor';
-  const name = '/MrMarble/drg-editor';
+  const name = 'original repo /MrMarble/drg-editor';
 
   return (
     <div className='absolute -left-24 -rotate-90 opacity-20 lg:left-auto lg:bottom-6 lg:rotate-0'>

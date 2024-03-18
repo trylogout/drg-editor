@@ -35,8 +35,8 @@ function Season({ season }: Properties): ReactElement {
           onChange={onXpChange}
         />
         <Input
-          name={ITEMS.SCRIP}
-          icon={`assets/${ITEMS.SCRIP.toLowerCase()}.webp`}
+          name={`${ITEMS.SCRIP}`}
+          icon={`assets/${ITEMS.SCRIP.toLowerCase()}.png`}
           initialValue={scrip}
           max={0x0f_ff_ff_ff}
           onChange={onScripChange}

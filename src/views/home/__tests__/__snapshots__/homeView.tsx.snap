@@ -24,9 +24,9 @@ exports[`HomeView > should render 1`] = `
       />
       <img
         alt="season logo"
-        className="mx-auto w-32"
-        height={32}
-        src="assets/season03.png"
+        className="season-logo mx-auto w-32"
+        height={47}
+        src="assets/season04.webp"
         width={128}
       />
     </div>
@@ -110,7 +110,7 @@ exports[`HomeView > should render 1`] = `
           <span
             className="my-auto text-xs"
           >
-            /MrMarble/drg-editor
+            original repo /MrMarble/drg-editor
           </span>
         </div>
       </a>

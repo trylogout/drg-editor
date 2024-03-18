@@ -47,7 +47,7 @@ exports[`Layout > should render correctly 1`] = `
           <span
             className="my-auto text-xs"
           >
-            /MrMarble/drg-editor
+            original repo /MrMarble/drg-editor
           </span>
         </div>
       </a>

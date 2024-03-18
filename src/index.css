@@ -90,3 +90,7 @@ body {
     src: url('/assets/fonts/dangerflight.ttf') format('truetype');
   }
 }
+
+.season-logo {
+  height: 47px;
+}
